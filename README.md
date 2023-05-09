@@ -24,8 +24,8 @@ This application is designed to be a place where users can write code (or anythi
 ## Installation
 To get this app working, simply visit the deployed Heroku app link. From there, users will have the option of using the text editor in the browser or installing it to be run on their local machine as an app. 
 
-<br>
-Click [HERE](link) to be brought to deployed application! 
+
+View my deployed app [HERE](https://git.heroku.com/quiet-ocean-37868.git) !
 <br>
 
 
