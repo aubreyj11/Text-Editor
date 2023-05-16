@@ -25,7 +25,7 @@ This application is designed to be a place where users can write code (or anythi
 To get this app working, simply visit the deployed Heroku app link. From there, users will have the option of using the text editor in the browser or installing it to be run on their local machine as an app. 
 
 
-View my deployed app [HERE](https://git.heroku.com/guarded-spire-40383.git) !
+View my deployed app [HERE](https://guarded-spire-40383.herokuapp.com/) !
 <br>
 
 
